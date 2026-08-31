@@ -1,6 +1,8 @@
 # 🚀 Pong Espacial.
 
-## 📌 Sobre o projeto: 
+---
+
+## 📌 Sobre o Projeto: 
 
 > Este projeto é uma releitura do clássico jogo Pong, desenvolvido em Java, com temática espacial e elementos de progressão de dificuldade.
 > O jogador controla uma nave espacial responsável por rebater a bola, acumulando pontos e avançando de fase conforme a partida evolui.
@@ -19,22 +21,22 @@
 
 ---
 
-## 🛠️ Tecnologias utilizadas: 
+## 🛠️ Tecnologias Utilizadas: 
 
 - **Linguagem:** [Java](https://www.oracle.com/br/java/technologies/downloads/)  
-- Renderização gráfica customizada
-- Manipulação de eventos de teclado
-- Estrutura baseada em cenas (Scene Management)
+- **Renderização gráfica customizada**.
+- **Manipulação de eventos de teclado**
+- **Estrutura baseada em cenas (Scene Management)**
 
 ---
 
 ## 🧠 Conceitos aplicados: 
 
-- Computação gráfica básica
-- Loop de jogo (Game Loop)
-- Detecção de colisão
-- Renderização de sprites/texturas
-- Gerenciamento de estado do jogo
+- **Computação gráfica básica**
+- **Loop de jogo (Game Loop)**
+- **Detecção de colisão**
+- **Renderização de sprites/texturas**
+- **Gerenciamento de estado do jogo**
 
 ---
 
